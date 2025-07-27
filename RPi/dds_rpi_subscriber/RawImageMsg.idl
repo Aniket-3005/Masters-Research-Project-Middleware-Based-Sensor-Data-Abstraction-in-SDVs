@@ -1,0 +1,7 @@
+module sensor {
+  struct RawImageMsg {
+    string frame_id;
+    string image_data;
+    uint64 timestamp;
+  };
+};

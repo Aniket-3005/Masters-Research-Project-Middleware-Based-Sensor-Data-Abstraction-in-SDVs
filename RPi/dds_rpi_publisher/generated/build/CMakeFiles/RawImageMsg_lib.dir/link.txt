@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRawImageMsg_lib.a CMakeFiles/RawImageMsg_lib.dir/RawImageMsgTypeObjectSupport.cxx.o CMakeFiles/RawImageMsg_lib.dir/RawImageMsgPubSubTypes.cxx.o
+/usr/bin/ranlib libRawImageMsg_lib.a
