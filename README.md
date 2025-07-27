@@ -108,3 +108,7 @@ Use `run_rpi_pipeline.sh` or `run_laptop_pipeline.sh` from their respective dire
 * The system design ensures abstraction of raw sensor data through VSS.
 * All components are modular and can be adapted for other sensors or platforms.
 
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).  
+You are free to use, modify, and distribute the code with proper attribution.
